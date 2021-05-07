@@ -13,4 +13,4 @@ Abre http://localhost:3000 para verla en el navegador
 
 Debe ejecutar el archivo productos.sql para la base de datos.
 
-Nota: No esta completo le falta mucho aun, falta de tiempo, lo siento. 
+Nota: No esta completo le falta mucho aun.
